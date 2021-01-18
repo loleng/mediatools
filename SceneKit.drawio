@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-18T02:05:00.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="T90akawrwVXQjgAJZCUx" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T02:10:09.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="qB5DEkXkCwKoCuo6_paP" version="14.2.4" type="github">
   <diagram id="bAvTHHYI_KYfITCIM_JM" name="Page-1">
     <mxGraphModel dx="618" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,6 +36,27 @@
         </mxCell>
         <mxCell id="zIlQ67HfN8may3UNHUG4-1" value="MTAScene" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="160" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-3" value="MTAMaterial" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="70" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-4" value="MTAAnimation" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="90" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-5" value="MTAABoneObj" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-6" value="MTAAddonMesh" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="130" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-7" value="MTAAnimSkeleton" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-8" value="MTAAnimAddonSkeleton" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zIlQ67HfN8may3UNHUG4-9" value="MTAAnimVertex" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
