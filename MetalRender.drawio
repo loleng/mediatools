@@ -1,17 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T08:45:44.569Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="kgd3Z2CggQ35lmN5rsTP" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-19T09:09:02.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="RBmr6UvE81K_ogXpkhoT" version="14.4.2" type="github">
   <diagram id="USdPcN2D7O0Sq6OQYNiE" name="Page-1">
-    <mxGraphModel dx="2125" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2056" dy="1982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2MBEesZgG_2p4eRT9xar-2" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(208 , 168 , 255) ; background-color: rgb(31 , 31 , 36)&quot;&gt;MTLDevice&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MBEesZgG_2p4eRT9xar-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-2" target="2MBEesZgG_2p4eRT9xar-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-2" target="2MBEesZgG_2p4eRT9xar-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-2" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLDevice&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-700" y="60" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2MBEesZgG_2p4eRT9xar-3" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(208 , 168 , 255) ; background-color: rgb(31 , 31 , 36)&quot;&gt;MTLCommandQueue&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MBEesZgG_2p4eRT9xar-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-3" target="2MBEesZgG_2p4eRT9xar-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-3" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLCommandQueue&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-560" y="10" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2MBEesZgG_2p4eRT9xar-4" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34; ; color: rgb(208 , 168 , 255) ; background-color: rgb(31 , 31 , 36)&quot;&gt;MTLLibrary&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2MBEesZgG_2p4eRT9xar-4" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLLibrary&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-560" y="50" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-5" target="2MBEesZgG_2p4eRT9xar-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-5" target="2MBEesZgG_2p4eRT9xar-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-5" target="2MBEesZgG_2p4eRT9xar-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-5" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLCommandBuffer&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="10" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-8" target="2MBEesZgG_2p4eRT9xar-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-8" value="&lt;p style=&quot;margin: 0px ; font-style: normal ; font-weight: normal ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;menlo&amp;quot; ; color: rgb(208 , 168 , 255)&quot;&gt;&lt;span style=&quot;color: rgb(65 , 161 , 192) ; text-align: left&quot;&gt;renderCommandEncoderWithDescriptor:&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLRenderPassDescriptor&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="-60" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-9" target="2MBEesZgG_2p4eRT9xar-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-9" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;menlo&amp;quot; ; color: rgb(65 , 161 , 192)&quot;&gt;computeCommandEncoderWithDescriptor:&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLComputePassDescriptor&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-180" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000099;" edge="1" parent="1" source="2MBEesZgG_2p4eRT9xar-10" target="2MBEesZgG_2p4eRT9xar-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-10" value="&lt;p style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;menlo&amp;quot; ; color: rgb(65 , 161 , 192)&quot;&gt;blitCommandEncoderWithDescriptor:&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLBlitPassDescriptor&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="80" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-11" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLRenderCommandEncoder&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-50" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-12" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLComputeCommandEncoder&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2MBEesZgG_2p4eRT9xar-13" value="&lt;p style=&quot;margin: 0px; font-stretch: normal; font-size: 13px; line-height: normal; font-family: menlo; color: rgb(208, 168, 255);&quot;&gt;MTLBlitCommandEncoder&lt;/p&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="90" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
