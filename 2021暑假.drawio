@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T06:29:55.977Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="5wFsRx_B2ItW7b8uc2rJ" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-13T06:35:26.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="VjM818mf1RwEiqaNT31U" version="14.8.6" type="github">
   <diagram name="Page-1" id="bd83a815-5ea8-2e97-e5ec-87c9f400f2fa">
     <mxGraphModel dx="2999.5" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -95,16 +95,22 @@
           <mxGeometry x="-730" y="-230" width="30" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EYobqE4aguS40PCSyP1M-6" value="7月17日 ～ 7月29日&lt;br&gt;田园 - 语文&lt;br&gt;9:00 ～ 11:00" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="-380" width="160" height="70" as="geometry" />
+          <mxGeometry x="-685" y="-340" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EYobqE4aguS40PCSyP1M-8" value="8月2日 ～ 8月14日&lt;br&gt;15数学（张惜文）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="EYobqE4aguS40PCSyP1M-8" value="8月2日 ～ 8月14日&lt;br&gt;15数学（张惜文）&lt;br&gt;18:00 ～ 20:30" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-230" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EYobqE4aguS40PCSyP1M-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="-230" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="EYobqE4aguS40PCSyP1M-10" value="8月18日 ～ 8月30日&lt;br&gt;高思英语（张博）大钟寺&lt;br&gt;17:50 ～ 20:20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="-230" width="170" height="70" as="geometry" />
+        <mxCell id="EYobqE4aguS40PCSyP1M-10" value="8月18日 ～ 8月30日（24日休）&lt;br&gt;高思英语（张博）大钟寺&lt;br&gt;17:50 ～ 20:20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-230" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EYobqE4aguS40PCSyP1M-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="-230" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EYobqE4aguS40PCSyP1M-12" value="8月18 ～ 8月29日&lt;br&gt;15数学 习题课 录&lt;br&gt;18:00 ～ 19:00" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="-160" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
