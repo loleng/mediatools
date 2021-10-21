@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T11:34:31.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="P6N4ReOZcw_47WDRSD0w" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T11:37:05.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="e8jIDdKlofEQ-eengtwp" version="15.5.8" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
-    <mxGraphModel dx="2079" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2300" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,23 +70,28 @@
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-26" target="4zsLI_aO5ENCOFRUtOQV-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-54" value="省略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4zsLI_aO5ENCOFRUtOQV-28">
+          <mxGeometry x="-0.0857" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-26" value="贴脸特效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-29" target="4zsLI_aO5ENCOFRUtOQV-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="730" as="targetPoint" />
+            <mxPoint x="40" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint y="800" />
-              <mxPoint y="730" />
+              <mxPoint x="30" y="800" />
+              <mxPoint x="30" y="730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-29" target="4zsLI_aO5ENCOFRUtOQV-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4zsLI_aO5ENCOFRUtOQV-29" value="萌颜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-29" value="贴脸特效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-30" target="4zsLI_aO5ENCOFRUtOQV-34">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +100,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-30" value="2D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-31" target="4zsLI_aO5ENCOFRUtOQV-43">
           <mxGeometry relative="1" as="geometry" />
@@ -104,49 +109,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-31" value="3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-34" target="4zsLI_aO5ENCOFRUtOQV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-34" value="图片（锚点、缩放比例）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-35" target="4zsLI_aO5ENCOFRUtOQV-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-35" value="AI检测人脸关键点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-38" target="4zsLI_aO5ENCOFRUtOQV-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-38" value="1:对准（图片的锚点和人脸锚点对齐（目前选的鼻尖位置）&lt;br&gt;2: 两眼间的距离配合缩放比（这个由设计师根据标准脸大小和图片大小决定缩放比）决定图片最终渲染大小&lt;br&gt;3:两眼间的向量决定图片绕Z轴旋转的角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="670" width="350" height="60" as="geometry" />
+          <mxGeometry x="440" y="670" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-41" value="最终渲染效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="857" y="670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-43" target="4zsLI_aO5ENCOFRUtOQV-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-43" value="AI检测相机投影矩阵、物体世界空间矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-45" target="4zsLI_aO5ENCOFRUtOQV-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-45" value="设计师根据标准模型匹配的3D模型+纹理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="910" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-47" target="4zsLI_aO5ENCOFRUtOQV-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-47" value="1:建立3D空间的Camera，检测的投影矩阵替换原有的投影矩阵；&lt;br&gt;2：物体空间矩阵由检测的空间矩阵替换；&lt;br&gt;注意：整个过程理解为相机未动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="870" width="320" height="60" as="geometry" />
+          <mxGeometry x="440" y="870" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-52" value="&lt;span&gt;最终渲染效果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
