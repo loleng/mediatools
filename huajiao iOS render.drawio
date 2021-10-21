@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T11:37:05.381Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="e8jIDdKlofEQ-eengtwp" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T12:00:00.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="LH7ZkJFTjv1MNVhYuyAw" version="15.5.8" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
     <mxGraphModel dx="2300" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -152,6 +152,75 @@
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-52" value="&lt;span&gt;最终渲染效果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-55" target="4zsLI_aO5ENCOFRUtOQV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-55" target="4zsLI_aO5ENCOFRUtOQV-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-55" value="AI检测（输入rgba，来源pixelbuffer）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-56" target="4zsLI_aO5ENCOFRUtOQV-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-56" value="CPU检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-57" target="4zsLI_aO5ENCOFRUtOQV-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-57" value="GPU检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-60" target="4zsLI_aO5ENCOFRUtOQV-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-60" value="缩放/旋转（软缩放（libyuv就可以，硬缩放GPU缩放））" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-61" target="4zsLI_aO5ENCOFRUtOQV-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-61" target="4zsLI_aO5ENCOFRUtOQV-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-61" value="送入检测接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-64" target="4zsLI_aO5ENCOFRUtOQV-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-64" value="同步（直接获取检测信息）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-65" target="4zsLI_aO5ENCOFRUtOQV-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-65" value="异步（渲染线程等待）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-68" value="结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-71" target="4zsLI_aO5ENCOFRUtOQV-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-71" value="一般不需要缩放，检测内部处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-73" target="4zsLI_aO5ENCOFRUtOQV-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-73" value="&lt;span&gt;送入检测接口&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-75" target="4zsLI_aO5ENCOFRUtOQV-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-75" value="异步（渲染线程等待）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
