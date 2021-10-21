@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T11:28:11.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="SUwkN31umVZcZh8ZHhMS" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T11:34:31.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="P6N4ReOZcw_47WDRSD0w" version="15.5.8" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
-    <mxGraphModel dx="1870" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2079" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,12 @@
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-30" value="2D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="700" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-31" target="4zsLI_aO5ENCOFRUtOQV-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-31" target="4zsLI_aO5ENCOFRUtOQV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-31" value="3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="820" width="120" height="60" as="geometry" />
         </mxCell>
@@ -120,6 +126,27 @@
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-41" value="最终渲染效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-43" target="4zsLI_aO5ENCOFRUtOQV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-43" value="AI检测相机投影矩阵、物体世界空间矩阵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-45" target="4zsLI_aO5ENCOFRUtOQV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-45" value="设计师根据标准模型匹配的3D模型+纹理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-47" target="4zsLI_aO5ENCOFRUtOQV-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-47" value="1:建立3D空间的Camera，检测的投影矩阵替换原有的投影矩阵；&lt;br&gt;2：物体空间矩阵由检测的空间矩阵替换；&lt;br&gt;注意：整个过程理解为相机未动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="870" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-52" value="&lt;span&gt;最终渲染效果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="870" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
