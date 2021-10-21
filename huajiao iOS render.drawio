@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T10:37:36.260Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="AWc9yw88_Z3GzcAeOlDv" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T11:28:11.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="SUwkN31umVZcZh8ZHhMS" version="15.5.8" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
-    <mxGraphModel dx="2300" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1870" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,54 @@
         </mxCell>
         <mxCell id="4zsLI_aO5ENCOFRUtOQV-26" value="贴脸特效" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-29" target="4zsLI_aO5ENCOFRUtOQV-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint y="800" />
+              <mxPoint y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-29" target="4zsLI_aO5ENCOFRUtOQV-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-29" value="萌颜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-30" target="4zsLI_aO5ENCOFRUtOQV-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-30" target="4zsLI_aO5ENCOFRUtOQV-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-30" value="2D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-31" value="3D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-34" target="4zsLI_aO5ENCOFRUtOQV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-34" value="图片（锚点、缩放比例）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-35" target="4zsLI_aO5ENCOFRUtOQV-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-35" value="AI检测人脸关键点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4zsLI_aO5ENCOFRUtOQV-38" target="4zsLI_aO5ENCOFRUtOQV-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-38" value="1:对准（图片的锚点和人脸锚点对齐（目前选的鼻尖位置）&lt;br&gt;2: 两眼间的距离配合缩放比（这个由设计师根据标准脸大小和图片大小决定缩放比）决定图片最终渲染大小&lt;br&gt;3:两眼间的向量决定图片绕Z轴旋转的角度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4zsLI_aO5ENCOFRUtOQV-41" value="最终渲染效果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
