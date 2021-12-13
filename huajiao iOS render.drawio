@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T02:29:20.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_6EDBYz2aG0E7iyTZyDd" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T02:32:14.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="gfC5h9IkW3XHRkK3OTat" version="15.9.4" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
     <mxGraphModel dx="2125" dy="3130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,6 +407,30 @@
         </mxCell>
         <mxCell id="wmRSeHbch6fbLW026FCW-65" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: menlo;&quot;&gt;GPUImageView&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="270" y="-230" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#82B366;" edge="1" parent="1" source="wmRSeHbch6fbLW026FCW-68" target="wmRSeHbch6fbLW026FCW-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#82B366;" edge="1" parent="1" source="wmRSeHbch6fbLW026FCW-68" target="wmRSeHbch6fbLW026FCW-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#82B366;" edge="1" parent="1" source="wmRSeHbch6fbLW026FCW-68" target="wmRSeHbch6fbLW026FCW-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-68" value="render" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="552" y="-2140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#82B366;" edge="1" parent="1" source="wmRSeHbch6fbLW026FCW-70" target="wmRSeHbch6fbLW026FCW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-70" value="video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-2020" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-72" value="Audio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="552" y="-2030" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-73" value="虚拟形象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-2030" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
