@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T02:52:08.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="tjVziy5Ozzqx89a7TMom" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T03:06:18.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_CvWbHVDDwymAGmo4Gts" version="15.9.4" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
     <mxGraphModel dx="2125" dy="3130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -458,7 +458,13 @@
         <mxCell id="wmRSeHbch6fbLW026FCW-77" value="礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="-1900" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmRSeHbch6fbLW026FCW-78" value="普通礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wmRSeHbch6fbLW026FCW-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#CC0066;" edge="1" parent="1" source="wmRSeHbch6fbLW026FCW-78" target="wmRSeHbch6fbLW026FCW-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#CC0066;" edge="1" parent="1" source="wmRSeHbch6fbLW026FCW-78" target="wmRSeHbch6fbLW026FCW-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-78" value="大礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-580" y="-1800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wmRSeHbch6fbLW026FCW-79" value="faceu礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -467,8 +473,14 @@
         <mxCell id="wmRSeHbch6fbLW026FCW-80" value="3D礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-340" y="-1800" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wmRSeHbch6fbLW026FCW-81" value="战斗礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wmRSeHbch6fbLW026FCW-81" value="战斗礼物/守护礼物" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-220" y="-1800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-89" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: menlo;&quot;&gt;HJEffectPngView&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="-1720" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-90" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: menlo;&quot;&gt;HJEffectVideoView&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#6666FF;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-1720" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
