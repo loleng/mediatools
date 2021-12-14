@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T06:29:32.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="pb4ZORngsbj33E6PVRtN" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T06:44:30.511Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="naA6Mp10MbABHEl8WeO6" version="15.9.4" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
     <mxGraphModel dx="2125" dy="3130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -504,6 +504,12 @@
         </mxCell>
         <mxCell id="wmRSeHbch6fbLW026FCW-99" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-stretch: normal; font-size: 14px; line-height: normal; font-family: menlo;&quot;&gt;HJGPUImageFaceDectorQihoo&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#4D9900;" vertex="1" parent="1">
           <mxGeometry x="295" y="-1760" width="235" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-101" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;美妆&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-1690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wmRSeHbch6fbLW026FCW-102" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;面部液化&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#82B366;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-1690" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
