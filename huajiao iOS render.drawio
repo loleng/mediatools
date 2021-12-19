@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T09:09:05.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="B8ol3X5dCQUOCWTDY4vl" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T02:58:46.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="GAuFxVVXFIFV0MutlV6H" version="15.9.6" type="github">
   <diagram id="27NDo_zjwCtd7umy8Yeo" name="Page-1">
     <mxGraphModel dx="2125" dy="3179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,6 +510,33 @@
         </mxCell>
         <mxCell id="wmRSeHbch6fbLW026FCW-102" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 14px ; line-height: normal ; font-family: &amp;#34;menlo&amp;#34;&quot;&gt;面部液化&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontColor=#82B366;" parent="1" vertex="1">
           <mxGeometry x="470" y="-1690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LG0RIia6UbmWegSVTDYR-1" target="LG0RIia6UbmWegSVTDYR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LG0RIia6UbmWegSVTDYR-1" target="LG0RIia6UbmWegSVTDYR-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LG0RIia6UbmWegSVTDYR-1" target="LG0RIia6UbmWegSVTDYR-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LG0RIia6UbmWegSVTDYR-1" target="LG0RIia6UbmWegSVTDYR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-1" value="Advance/Base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-2" value="嫩肤（SoftLevel）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-1660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-4" value="美白（WhiteLevel）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-1630" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-5" value="瘦脸（FaceLevel）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-1590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LG0RIia6UbmWegSVTDYR-6" value="大眼（EyeLevel）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-1560" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
