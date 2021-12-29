@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-29T07:42:10.948Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="E5cvXjqFRdU4M56uivd5" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-29T07:43:37.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nGzETlct-QKmb-IinjZu" version="16.1.0" type="github">
   <diagram id="TO8Cm1dBxi690jHz4DRG" name="Page-1">
     <mxGraphModel dx="1298" dy="3097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,6 +24,24 @@
         </mxCell>
         <mxCell id="jOTpUi9bDgoCiOJ9HlCg-4" value="kinematic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="-1820" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOTpUi9bDgoCiOJ9HlCg-8" value="rolling friction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-2010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOTpUi9bDgoCiOJ9HlCg-9" value="resitution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-1970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOTpUi9bDgoCiOJ9HlCg-10" value="friction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-2050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOTpUi9bDgoCiOJ9HlCg-11" value="damping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-1930" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOTpUi9bDgoCiOJ9HlCg-12" value="angular damping" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-1890" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOTpUi9bDgoCiOJ9HlCg-13" value="charge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-1850" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
